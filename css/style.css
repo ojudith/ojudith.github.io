@@ -1,5 +1,5 @@
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'lane_-_narrowregular', sans-serif;
 	line-height: 20px;
 	color: #999999;
 	font-size: 300;
@@ -95,6 +95,7 @@ hr.botm-line {
 
 .white, .white:hover, .white:focus
 {
+
 	color: #fff;
 	width: 100% !important;
 }
@@ -140,10 +141,12 @@ hr.botm-line {
 	color: #fff;
 }
 .banner-text h1{
-    font-family: 'Chewy', cursive;
+    font-family: Arial;
 	font-size: 35px;
 	text-transform: uppercase;
 	padding-bottom:15px;
+  
+
 }
 .btn-appoint, .btn-appoint:hover, .btn-appoint:focus{
 	margin-top: 30px;
