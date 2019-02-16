@@ -79,7 +79,7 @@ body{
 .about{
 	padding-top: 100px;
 	margin-bottom: -130px;
-	font-size: 15px;
+	font-size: 14px;
 }
 
 .profile-img {
@@ -300,8 +300,7 @@ body{
 	margin-right: 5px;
 }
 .footer{
-	background: #f8f9fa;
-	height: 50px;
+	background: #f8f9fa;	
 	margin-top: 50px;
 	color: #333;
 	padding-top: 10px;
@@ -321,10 +320,10 @@ padding: initial;
 }
 
 .social-icons ul li{
-	height: 40px;
-	width: 40px;
+	height: 30px;
+	width: 30px;
 	list-style-type: none;
-	padding-left: 12px;
+	padding-left: 10px;
 	padding-top: 6px;
 	color: #fff;
 	background: purple;
